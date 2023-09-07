@@ -8,3 +8,30 @@
 Una de las principales funciones de AWT es la creación de ventanas, botones, campos de texto, menús, entre otros elementos gráficos que los usuarios pueden utilizar para interactuar con la aplicación. Además, permite la personalización de la apariencia y el comportamiento de estos componentes para adaptarse a las necesidades específicas de cada aplicación.
 
 La interacción con la biblioteca AWT se logra mediante la creación de objetos de componentes gráficos, la definición de sus propiedades y la implementación de controladores de eventos que respondan a las acciones del usuario. Los desarrolladores pueden utilizar clases y métodos proporcionados por AWT para gestionar eventos como clics de ratón, pulsaciones de teclas o cambios en los elementos de la interfaz de usuario. En resumen, AWT es fundamental para la creación de aplicaciones Java con interfaces de usuario intuitivas y amigables, y su versatilidad permite a los desarrolladores interactuar de manera efectiva con los componentes gráficos y eventos para brindar una experiencia de usuario excepcional.
+
+
+# Table of contents
+
+- [Usage](#usage)
+  - [Flags](#flags)
+    - `-1`
+    - `-a`   (or) `--all`
+    - `-A`   (or) `--almost-all`
+    - `-d`   (or) `--dirs`
+    - `-f`   (or) `--files`
+    - `-h`   (or) `--help`
+    - `-l`   (or) `--long`
+    - `-r`   (or) `--report`
+    - `--tree` (or) `--tree=[DEPTH]`
+    - `--gs` (or) `--git-status`
+    - `--sd` (or) `--sort-dirs` or `--group-directories-first`
+    - `--sf` (or) `--sort-files`
+    - `-t`
+  - [Combination of flags](#combination-of-flags)
+- [Installation](#installation)
+- [Recommended configurations](#recommended-configurations)
+- [Custom configurations](#custom-configurations)
+- [Updating](#updating)
+- [Uninstallation](#uninstallation)
+- [Contributing](#contributing)
+- [License](#license)
