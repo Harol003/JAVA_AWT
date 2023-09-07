@@ -1,7 +1,11 @@
 # JAVA_AWT
+
+![java](https://github.com/Harol003/JAVA_AWT/assets/66041310/e28221e1-5063-46c1-a5da-767c3f579e5b)
+
  JAVA_AWT
  
-![Slogan-poli-blanco](https://github.com/Harol003/JAVA_AWT/assets/66041310/1534705f-2738-4df4-ad10-71961c8b9426)
+![Slogan-poli-blanco](https://github.com/Harol003/JAVA_AWT/assets/66041310/5b250263-c84b-4690-b0a6-f67941845f80)
+
 
  La biblioteca AWT (Abstract Window Toolkit) de Java es esencial en el desarrollo de aplicaciones de interfaz gráfica de usuario (GUI). Su importancia radica en que proporciona las herramientas necesarias para crear interfaces de usuario interactivas y visualmente atractivas en aplicaciones Java. AWT sirve como una capa de abstracción que permite a los desarrolladores interactuar con los componentes gráficos nativos del sistema operativo subyacente, lo que garantiza la portabilidad de las aplicaciones a través de diferentes plataformas.
 
@@ -32,6 +36,6 @@ La interacción con la biblioteca AWT se logra mediante la creación de objetos 
     - AWT Dialog
 
 
- <p align="left">
- <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
- </p>
+
+![STATUS-EN DESAROLLO-green](https://github.com/Harol003/JAVA_AWT/assets/66041310/2c1e668d-15cf-4089-8c66-6830a9b1ce60)
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152" height="20" role="img" aria-label="STATUS: EN DESAROLLO"><title>STATUS: EN DESAROLLO</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="152" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="55" height="20" fill="#555"/><rect x="55" width="97" height="20" fill="#97ca00"/><rect width="152" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">STATUS</text><text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">STATUS</text><text aria-hidden="true" x="1025" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="870">EN DESAROLLO</text><text x="1025" y="140" transform="scale(.1)" fill="#fff" textLength="870">EN DESAROLLO</text></g></svg>
