@@ -14,24 +14,24 @@ La interacción con la biblioteca AWT se logra mediante la creación de objetos 
 
 - [Usage](#usage)
   - [Flags](#flags)
-    - `-1`
-    - `-a`   (or) `--all`
-    - `-A`   (or) `--almost-all`
-    - `-d`   (or) `--dirs`
-    - `-f`   (or) `--files`
-    - `-h`   (or) `--help`
-    - `-l`   (or) `--long`
-    - `-r`   (or) `--report`
-    - `--tree` (or) `--tree=[DEPTH]`
-    - `--gs` (or) `--git-status`
-    - `--sd` (or) `--sort-dirs` or `--group-directories-first`
-    - `--sf` (or) `--sort-files`
-    - `-t`
-  - [Combination of flags](#combination-of-flags)
-- [Installation](#installation)
-- [Recommended configurations](#recommended-configurations)
-- [Custom configurations](#custom-configurations)
-- [Updating](#updating)
-- [Uninstallation](#uninstallation)
-- [Contributing](#contributing)
-- [License](#license)
+    - AWT
+    - Event Handling
+    - AWT Button
+    - AWT Label
+    - AWT TextField
+    - AWT TextArea
+    - AWT CheckBox
+    - AWT CheckBoxGroup
+    - AWT Choice
+    - AWT List
+    - AWT Canvas
+    - AWT ScrollBar
+    - AWT Menu
+    - AWT PopMenu
+    - AWT Panel
+    - AWT Dialog
+
+
+ <p align="left">
+ <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+ </p>
